@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+pytest
+python-json-logger
+python-dotenv
+pg8000
+httpx
